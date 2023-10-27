@@ -1,0 +1,22 @@
+.doctor-item-info {
+    border: 1px solid;
+}
+.bordure {
+    border: 1px solid;
+}
+.doctor-profile {
+    border: 3px #ccc solid;
+    background-color: #ffffff;
+    width: 135px;
+    height: 130px;
+    padding: 2px;
+}
+
+.doctor-profile-image {
+    margin-left: -10px;
+    width: 130px;
+}
+
+.doctor-address {
+    font-size: 14px;
+}

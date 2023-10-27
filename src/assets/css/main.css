@@ -1,0 +1,47 @@
+.navbar-style {
+    background-color: #fff !important;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.title_row {
+    display: flex;
+    justify-content: space-between;
+}
+
+.description{
+    gap: 5px;
+}
+
+.left_description {
+    margin: 40px 5px;
+    width: 100%;
+    padding: 10px;
+    line-height: 1.7rem;
+}
+
+.right_description {
+    margin: 40px 5px;;
+    width: 100%;
+    padding-left: 200px;
+    right: 3px;
+}
+
+.description_text {
+    color: blue;
+    font-size: 36px;;
+}
+
+.sub_decsription {
+    color: #bbbbbb;
+    margin-top: 20px;
+    font-size: 18px;
+}
+.input-search {
+    outline: none;
+}
+
+.div-search {
+    padding: 30px;
+    background-color: #82ADCF;
+    border-radius: 10px;
+}

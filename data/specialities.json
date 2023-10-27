@@ -1,0 +1,19 @@
+{
+    "specialities": [
+        {
+            "id": 1,
+            "name": "Gynécologue", 
+            "description": ""
+        },
+        {
+            "id": 2,
+            "name": "Dentiste", 
+            "description": ""
+        },
+        {
+            "id": 3,
+            "name": "Médecin généraliste", 
+            "description": ""
+        }
+    ]
+}
